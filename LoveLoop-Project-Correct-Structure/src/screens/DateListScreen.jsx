@@ -1,0 +1,3 @@
+export default function DateListScreen({ lang, t, onBack, onComplete }) {
+  // ...
+}

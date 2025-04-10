@@ -1,0 +1,3 @@
+export default function MainMenu({ user, partner, lang, t, onLangChange, onNavigate }) {
+  // ...
+}
